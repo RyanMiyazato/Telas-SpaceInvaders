@@ -1,0 +1,7 @@
+<Window xmlns="https://github.com/avaloniaui"
+        Title="Space Invaders - Leaderboard" Width="400" Height="300">
+    <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+        <TextBlock Text="Leaderboard" FontSize="20" Margin="10"/>
+        <Button Name="BackButton" Content="Back to Menu" Width="200" Margin="10"/>
+    </StackPanel>
+</Window>

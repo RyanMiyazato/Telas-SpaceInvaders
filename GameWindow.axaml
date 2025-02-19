@@ -1,0 +1,8 @@
+<Window xmlns="https://github.com/avaloniaui"
+        Title="Space Invaders - Game" Width="600" Height="400">
+    <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+        <TextBlock Text="Game Screen" FontSize="20" Margin="10"/>
+        <Button Name="GameOverButton" Content="Game Over" Width="200" Margin="10"/>
+    </StackPanel>
+</Window>
+
